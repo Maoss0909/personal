@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m '新建命令文件夹'
+git push
+git log
